@@ -1,4 +1,5 @@
-# Penny
+# Penny <img width="4096" height="4096" alt="image" src="https://github.com/user-attachments/assets/b6238aaf-4abf-46ee-ba59-2b07ba64ad90" />
+
 
 **Health:** 5,000  
 **Prejump:** 5f  
