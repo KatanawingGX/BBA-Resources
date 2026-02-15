@@ -1,4 +1,5 @@
-# Enza                                                    
+# Enza                                                   <img width="1096" height="1096" alt="image" src="https://github.com/user-attachments/assets/3a53a1d9-3fe6-4465-8bef-23b267d9b55c" />
+ 
 
 **Health:** 5,000  
 **Prejump:** 5f  
