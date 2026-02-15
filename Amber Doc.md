@@ -1,4 +1,5 @@
-# Amber
+# Amber                                                                <img width="4096" height="4096" alt="image" src="https://github.com/user-attachments/assets/932ec2dc-7d1c-402d-a295-b9cdb28cdf29" />
+
 
 **Health:** 4,500  
 **Prejump:** 5f  
