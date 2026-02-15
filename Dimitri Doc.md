@@ -1,4 +1,5 @@
-# Dimitri
+# Dimitri         <img width="4500" height="4500" alt="image" src="https://github.com/user-attachments/assets/37211475-f467-4ac1-a5b7-5ee08141ac00" />
+
 
 Health: 5,500  
 Prejump: 6f  
