@@ -7,6 +7,7 @@ Blueblood Arena is a new fighting game developed by Starcutter. (the developer o
 BBA is a 2D fighting game built with a simple input system, along with a varied cast of characters that allow many different styles of play.
 
 # Controls
+<img width="228" height="236" alt="image" src="https://github.com/user-attachments/assets/19f80ade-34ea-4a5b-8fbc-4b00bc9f661f" />
 
 Like most other arcade fighting games, BBA is controlled with an 8 direction digital joystick and 4 buttons **A** (light), **B** (heavy), **C** (alpha), and **D** (beta)
 
